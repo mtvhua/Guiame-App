@@ -7,5 +7,5 @@
 
 #
 *MOCK-UP:*
-- PDF:
+- PDF:[MockUp.pdf](https://github.com/user-attachments/files/25473898/MockUp.pdf)
 - Link video:
