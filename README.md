@@ -12,5 +12,5 @@
 
 #
 *Static Version:*
-- PDF:
+- PDF: 
 - Link video: 
