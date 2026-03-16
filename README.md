@@ -12,5 +12,7 @@
 
 #
 *Static Version:*
-- PDF:
-- Link video: 
+
+- Repo de la pagina web:
+- PDF: 
+- Link video: https://youtu.be/nFlNEP-o8GE 
