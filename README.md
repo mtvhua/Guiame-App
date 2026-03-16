@@ -11,6 +11,7 @@
 - Link video: https://youtu.be/IWX6-Q4P9uw
 
 #
-*Static Version:*
-- PDF: 
-- Link video: 
+*STATIC VERSION:*
+- Repo de la app: https://github.com/mtvhua/Guiame-App/tree/main
+- PDF: [StaticVersion.pdf](https://github.com/mtvhua/Guiame-App/blob/main/STATIC%20VERSION.pdf)
+- Link video: https://youtu.be/nFlNEP-o8GE 
