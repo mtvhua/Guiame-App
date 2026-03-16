@@ -12,6 +12,6 @@
 
 #
 *STATIC VERSION:*
-- Repo de la pagina web:
-- PDF: 
+- Repo de la pagina web: https://github.com/mtvhua/Guiame-App/tree/master
+- PDF: [StaticVersion.pdf](https://github.com/mtvhua/Guiame-App/blob/main/STATIC%20VERSION.pdf)
 - Link video: https://youtu.be/nFlNEP-o8GE 
