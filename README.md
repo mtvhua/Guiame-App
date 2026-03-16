@@ -11,8 +11,7 @@
 - Link video: https://youtu.be/IWX6-Q4P9uw
 
 #
-*Static Version:*
-
+*STATIC VERSION:*
 - Repo de la pagina web:
 - PDF: 
 - Link video: https://youtu.be/nFlNEP-o8GE 
