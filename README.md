@@ -1,4 +1,4 @@
-# *GUIAME-APP*
+# *GUIAME-WEB*
 
 *PROPOSAL:*
 
